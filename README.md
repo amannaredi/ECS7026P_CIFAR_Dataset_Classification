@@ -10,8 +10,13 @@ The project is structured as follows:
 
 ## Model Architecture
 
+Network Architecture
 ![Architecture](https://github.com/amannaredi/ECS7026P_CIFAR_Dataset_Classification/assets/81749870/e563e089-78ba-465f-84f3-0644e934fe35)
+
+Intermediate Block Architecture
 <img width="891" alt="block architecture" src="https://github.com/amannaredi/ECS7026P_CIFAR_Dataset_Classification/assets/81749870/698929b5-d153-467b-9f41-93ff52501141">
+
+Output Block Architecture
 <img width="865" alt="Output Block" src="https://github.com/amannaredi/ECS7026P_CIFAR_Dataset_Classification/assets/81749870/b79ceeae-34a6-47c5-983d-457fc311a66d">
 
 
